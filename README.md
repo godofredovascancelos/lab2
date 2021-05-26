@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/godofredovascancelos/lab2.svg?branch=main)](https://travis-ci.com/BrovkinArtem/Aboba2)
+[![Build Status](https://travis-ci.com/godofredovascancelos/lab2.svg?branch=main)](https://travis-ci.com/godofredovascancelos/lab2)
 [![Coverage Status](https://coveralls.io/repos/github/godofredovascancelos/lab2/badge.svg?branch=main)](https://coveralls.io/github/godofredovascancelos/lab2?branch=main)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=godofredovascancelos_lab2&metric=alert_status)](https://sonarcloud.io/dashboard?id=godofredovascancelos_lab2)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=godofredovascancelos_lab2&metric=code_smells)](https://sonarcloud.io/dashboard?id=godofredovascancelos_lab2)

@@ -1,7 +1,7 @@
 /**
  * showupper.cpp -- функция для вывода текста с капитализацией всех символов
  * 
- * Copyright (c) 2021, Brovkin Artem
+ * Copyright (c) 2021, godofredovascancelos
  *
  * This code is licensed under a MIT-style license.
  */
